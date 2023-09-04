@@ -6,7 +6,6 @@ This Android app allows two players to enjoy the classic game of Tic-Tac-Toe on 
   -> Two-Player Gameplay: Play against a friend on the same device.
 
 ## Screenshots
-![Screenshot_2023-09-04-23-30-59-790_com example tictactowgame-edit](https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/6c7e0a6c-2408-4d5d-b32d-b5ec0bd2d197)
 
 <img
   src="https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/6c7e0a6c-2408-4d5d-b32d-b5ec0bd2d197"
