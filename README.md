@@ -7,10 +7,9 @@ This Android app allows two players to enjoy the classic game of Tic-Tac-Toe on 
 
 ## Screenshots
 
-![](images/Screenshot_2023-09-04-23-30-59-790_com.example.tictactowgame.jpg)
+![](images/Screenshot_2023-09-04-23-30-59-790_com.example.tictactowgame-edit.jpg)
 
-<img src = "images
-/Screenshot_2023-09-04-23-30-59-790_com.example.tictactowgame-edit.jpg" width="200">
+<img src = "images/Screenshot_2023-09-04-23-30-59-790_com.example.tictactowgame-edit.jpg" width="200">
 
  
 
