@@ -7,11 +7,8 @@ This Android app allows two players to enjoy the classic game of Tic-Tac-Toe on 
 
 ## Screenshots
 
-<img
-  src="https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/6c7e0a6c-2408-4d5d-b32d-b5ec0bd2d197-small"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 50px">
+![](images
+/Screenshot_2023-09-04-23-30-59-790_com.example.tictactowgame-small.jpg)
 
  
 
