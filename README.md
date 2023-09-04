@@ -6,12 +6,15 @@ This Android app allows two players to enjoy the classic game of Tic-Tac-Toe on 
   -> Two-Player Gameplay: Play against a friend on the same device.
 
 ## Screenshots
+![Screenshot_2023-09-04-23-30-59-790_com example tictactowgame-edit](https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/6c7e0a6c-2408-4d5d-b32d-b5ec0bd2d197)
 
-[Screenshot_2023-09-04-23-30-59-790_com example tictactowgame-edit](https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/c0154fa8-5f49-4cb0-9a15-b20f2931a5a6)
-![Screenshot_2023-09-04-23-31-52-769_com example tictactowgame-edit](https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/b25e9d7c-c955-4010-907f-ceeafcd53810)
-![Screenshot_2023-09-04-23-32-23-312_com example tictactowgame-edit](https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/03c98e48-4bb3-469c-a7b9-a7b6b
-![Screenshot_2023-09-04-23-32-41-933_com example tictactowgame-edit](https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/ca4cf61f-8825-47ec-81ee-9aa6621226c7)
-a9cd913)
+<img
+  src="https://github.com/Kishan-Vyas/Tic-Tac-Tow-App/assets/114094586/6c7e0a6c-2408-4d5d-b32d-b5ec0bd2d197"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+ 
 
 
 ## Installation
